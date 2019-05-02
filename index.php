@@ -19,5 +19,5 @@ function solution($M, $A) {
     }
     return $A[$index];
 }
-solution(3, [1, 2, 3, 3, 1, 3, 1]);
+var_dump(solution(3, [1, 2, 3, 3, 1, 3, 1]));
 ?>
